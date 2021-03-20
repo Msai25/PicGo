@@ -1,0 +1,2 @@
+# PicGo
+Store pictures
